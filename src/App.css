@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+#main_inner_div{
+  width:100%;
+  background-color: teal;
+
+}
+#find_place{
+  width:100%;
+  padding:1vw;
+}
+#latitude_id{
+  width:20vw;
+  min-height:3vw;
+  border-radius:5px;
+  font-size:1.5vw;
+  font-weight:bold;
+  letter-spacing:2px;
+}
+#longitude_id{
+  width:20vw;
+  min-height:3vw;
+  border-radius:5px;
+  font-size:1.5vw;
+  font-weight:bold;
+  letter-spacing:2px;
+
+}
+button{
+  width:7vw;
+  background-color:green;
+  color:white;
+  margin:1vw;
+  min-height:3vw;
+}
